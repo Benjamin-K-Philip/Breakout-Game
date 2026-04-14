@@ -42,6 +42,18 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 
 
 ## Output
-<img width="816" height="642" alt="image" src="https://github.com/user-attachments/assets/4e071e0c-177b-4624-89d0-534432f97278" />
+<img width="799" height="619" alt="Screenshot (7310)" src="https://github.com/user-attachments/assets/e16fcf70-39bf-475e-a4bd-f54189f13643" />
+<br><br> <!-- This statement is used for giving space -->
+
+<img width="800" height="621" alt="Screenshot (7314)" src="https://github.com/user-attachments/assets/1ecd5365-6118-4f2b-bd81-b1a0cab28669" />
+<br><br> <!-- This statement is used for giving space -->
+
+<img width="794" height="621" alt="Screenshot (7318)" src="https://github.com/user-attachments/assets/9da245bd-59d2-4db5-bacb-4859603909ac" />
+<br><br> <!-- This statement is used for giving space -->
+
+<img width="798" height="624" alt="Screenshot (7320)" src="https://github.com/user-attachments/assets/38871785-d5a5-498f-aea9-3b3fce161f88" />
+<br><br> <!-- This statement is used for giving space -->
+
+
 
 
