@@ -16,3 +16,17 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 
 - **Game Loop:** A while not exit_program: loop keeps the game running, locked to 30 frames per second using pygame.time.Clock(). Inside this loop, the screen is wiped clean, events (like quitting) are processed, object positions are updated, and everything is redrawn to the screen.
 
+
+## Features
+- Player-controlled paddle tracking the user's mouse position.
+
+- Dynamic ball physics that calculate bounce angles based on paddle impact location.
+
+- Automated grid generation for the target blocks.
+
+- Real-time collision detection and block destruction.
+
+- Win/Loss state handling (Game Over text).
+
+- Demonstrates OOP concepts: Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
+
