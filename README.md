@@ -42,5 +42,6 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 
 
 ## Output
-  
+<img width="816" height="642" alt="image" src="https://github.com/user-attachments/assets/4e071e0c-177b-4624-89d0-534432f97278" />
+
 
