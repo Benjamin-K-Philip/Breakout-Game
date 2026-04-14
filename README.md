@@ -45,7 +45,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 <img width="1130" height="884" alt="image" src="https://github.com/user-attachments/assets/7c500b15-ce6e-452d-85d9-df050a540264" />
 <br><br> <!-- This statement is used for giving space -->
 
-<img width="789" height="626" alt="Screenshot (7323)" src="https://github.com/user-attachments/assets/420792b2-5c8f-4da0-95ea-5606349bb18e" />
+<img width="1054" height="837" alt="image" src="https://github.com/user-attachments/assets/26da778b-efa7-4f36-b6b8-85a142a8e54e" />
 <br><br> <!-- This statement is used for giving space -->
 
 <img width="799" height="619" alt="Screenshot (7310)" src="https://github.com/user-attachments/assets/e16fcf70-39bf-475e-a4bd-f54189f13643" />
