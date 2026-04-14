@@ -31,7 +31,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - Demonstrates OOP concepts which are Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
 
 
-# Project Structure
+## Project Structure
 - **Block class:** Represents the static, breakable targets at the top of the screen.
 
 - **Ball class:** Manages the speed, trajectory, boundary bouncing, and trigonometric movement updates.
@@ -39,5 +39,8 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - **Player class:** Represents the user's paddle and updates its X-coordinate based on mouse movement.
 
 - **Main Game Loop:** Coordinates framerate, processes event handling (quitting), updates object states, checks for collisions, and renders the graphics to the screen.
+
+
+## Output
   
 
