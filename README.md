@@ -48,16 +48,16 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 <img width="1054" height="837" alt="image" src="https://github.com/user-attachments/assets/26da778b-efa7-4f36-b6b8-85a142a8e54e" />
 <br><br> <!-- This statement is used for giving space -->
 
-<img width="799" height="619" alt="Screenshot (7310)" src="https://github.com/user-attachments/assets/e16fcf70-39bf-475e-a4bd-f54189f13643" />
+<img width="1053" height="817" alt="image" src="https://github.com/user-attachments/assets/9a6ae40e-b2f7-41bb-89c1-27b3d5c06ada" />
 <br><br> <!-- This statement is used for giving space -->
 
-<img width="800" height="621" alt="Screenshot (7314)" src="https://github.com/user-attachments/assets/1ecd5365-6118-4f2b-bd81-b1a0cab28669" />
+<img width="1131" height="879" alt="image" src="https://github.com/user-attachments/assets/9b28d643-fb16-4428-a6ec-3265c93a41e4" />
 <br><br> <!-- This statement is used for giving space -->
 
-<img width="794" height="621" alt="Screenshot (7318)" src="https://github.com/user-attachments/assets/9da245bd-59d2-4db5-bacb-4859603909ac" />
+<img width="1043" height="817" alt="image" src="https://github.com/user-attachments/assets/9c02ef73-824e-4066-85af-b817a2853d81" />
 <br><br> <!-- This statement is used for giving space -->
 
-<img width="798" height="624" alt="Screenshot (7320)" src="https://github.com/user-attachments/assets/38871785-d5a5-498f-aea9-3b3fce161f88" />
+<img width="1021" height="800" alt="image" src="https://github.com/user-attachments/assets/528b9ec0-a3df-49e7-9696-2da4312edcb1" />
 <br><br> <!-- This statement is used for giving space -->
 
 
