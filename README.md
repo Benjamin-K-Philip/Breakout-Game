@@ -15,7 +15,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - **Math & Physics:** The math module is utilized to calculate the ball's trajectory. By converting the ball's direction into radians, math.sin and math.cos determine the X and Y coordinate updates frame-by-frame. The paddle also features a dynamic bounce calculation, altering the ball's trajectory depending on where it strikes the paddle.
 
 - **Game Loop:** A while not exit_program: loop keeps the game running, locked to 30 frames per second using pygame.time.Clock(). Inside this loop, the screen is wiped clean, events (like quitting) are processed, object positions are updated, and everything is redrawn to the screen.
-<br>
+ 
 
 ## Features
 - Player-controlled paddle tracking the user's mouse position.
@@ -39,7 +39,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - **Player class:** Represents the user's paddle and updates its X-coordinate based on mouse movement.
 
 - **Main Game Loop:** Coordinates framerate, processes event handling (quitting), updates object states, checks for collisions, and renders the graphics to the screen.
-<br>
+ 
 
 ## Output
 <img width="1130" height="884" alt="image" src="https://github.com/user-attachments/assets/7c500b15-ce6e-452d-85d9-df050a540264" />
