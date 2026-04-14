@@ -42,7 +42,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 
 
 ## Output
-<img width="798" height="623" alt="Screenshot (7321)" src="https://github.com/user-attachments/assets/5ce308d7-ab2d-4a5e-a0d2-ef83ee7dc9a3" />
+<img width="1130" height="884" alt="image" src="https://github.com/user-attachments/assets/7c500b15-ce6e-452d-85d9-df050a540264" />
 <br><br> <!-- This statement is used for giving space -->
 
 <img width="789" height="626" alt="Screenshot (7323)" src="https://github.com/user-attachments/assets/420792b2-5c8f-4da0-95ea-5606349bb18e" />
