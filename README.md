@@ -3,7 +3,6 @@ A Python-based arcade application that recreates the classic "Breakout" game usi
 This game simulates a physics-based environment where the player controls a paddle to bounce a ball into a grid of blocks, aiming to destroy them all without letting the ball fall off the bottom of the screen.
 
 
-
 ## How the Code Works & Pygame Usage
 The code relies heavily on Pygame, a popular set of Python modules designed for writing video games. Pygame provides the core infrastructure for rendering graphics, handling the main game loop, and capturing user input. The following explains how the game works :
 
@@ -18,7 +17,6 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - **Game Loop:** A while not exit_program: loop keeps the game running, locked to 30 frames per second using pygame.time.Clock(). Inside this loop, the screen is wiped clean, events (like quitting) are processed, object positions are updated, and everything is redrawn to the screen.
 
 
-
 ## Features
 - Player-controlled paddle tracking the user's mouse position.
 
@@ -31,4 +29,15 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - Win/Loss state handling (Game Over text).
 
 - Demonstrates OOP concepts which are Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
+
+
+# Project Structure
+- **Block class:** Represents the static, breakable targets at the top of the screen.
+
+- **Ball class:** Manages the speed, trajectory, boundary bouncing, and trigonometric movement updates.
+
+- **Player class:** Represents the user's paddle and updates its X-coordinate based on mouse movement.
+
+- **Main Game Loop:** Coordinates framerate, processes event handling (quitting), updates object states, checks for collisions, and renders the graphics to the screen.
+  
 
