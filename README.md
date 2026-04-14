@@ -29,7 +29,7 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 - Win/Loss state handling (Game Over text).
 
 - Demonstrates OOP concepts which are Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
-<br>
+ 
 
 ## Project Structure
 - **Block class:** Represents the static, breakable targets at the top of the screen.
