@@ -28,5 +28,5 @@ The code relies heavily on Pygame, a popular set of Python modules designed for 
 
 - Win/Loss state handling (Game Over text).
 
-- Demonstrates OOP concepts: Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
+- Demonstrates OOP concepts which are Inheritance, Encapsulation, and Polymorphism via Pygame's Sprite system.
 
